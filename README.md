@@ -13,12 +13,6 @@
 To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 
-
-## Showcase ☝️
-
-A few public projects I've been working on. 
----
-
 ## Haskell
 
 ## Scala
