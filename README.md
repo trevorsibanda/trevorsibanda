@@ -1,17 +1,16 @@
-# Trevor Sibanda ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Trevor Sibanda ⚡️ 
+
+Looking for a new exciting role. You might be here because I applied at your company. Hire me :)  
 
 ## Scala/Haskell/Golang software engineer
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Optimized with Parcel\
-⚡️ Well organized documentation
+⚡️ Looking for a new role, preferably using one of Scala/Haskell/Golang or all :)\
+⚡️ Experienced software engineer \
+⚡️ Remote work first\
+⚡️ Backend distributed systems, database systems, compilers\
+⚡️ Available for freelance projects for most of the technologies listed below. Let's talk
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
-
+I've listed a few projects to showcase below, if this section is empty, you're early :) I'll be moving some of my projects from private to public, starting December 2022.
 
 ## Haskell
 
@@ -23,28 +22,11 @@ To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 ## General
 
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
+- Link to project
+- Link to project
+- Link to project
 
 ## Let's talk 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Let's talk, book an appointment and I'll get back to you :) [Book a call with me](https://calendly.com/sibandatrevor/30min)
 
-### Recent activity 📋
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
-
-```
-node@v16.4.2 or higher
-npm@7.18.1 or higher
-git@2.30.1 or higher
-```
-
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
-```
-yarn@v1.22.10 or higher
-```
-
----
