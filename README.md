@@ -14,6 +14,7 @@ I've listed a few projects to showcase below, if this section is empty, you're e
 
 ## Haskell
 
+[trevorsibanda/paynow-zw](https://github.com/trevorsibanda/paynow-zw) Haskell SDK for [Paynow](https://www.paynow.co.zw/) payment gateway. 
 ## Scala
 
 ## GoLang
