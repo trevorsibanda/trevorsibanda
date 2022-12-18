@@ -21,6 +21,8 @@ I've listed a few projects to showcase below, if this section is empty, you're e
 
 ## ReactJS
 
+[trevorsibanda/tryfaunadb](https://github.com/trevorsibanda/tryfaunadb) TryFaunaDB is an online code editor built on Apache OpenWhisk to use Go/Python/NodeJS to interact with a live FaunaDB database. Deploys to Netlify. See [trevorsibanda/whiskey](https://github.com/trevorsibanda/whiskey) for docker images used.  
+
 ## General
 
 - Link to project
