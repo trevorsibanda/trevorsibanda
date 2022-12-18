@@ -17,6 +17,8 @@ I've listed a few projects to showcase below, if this section is empty, you're e
 [trevorsibanda/paynow-zw](https://github.com/trevorsibanda/paynow-zw) Haskell SDK for [Paynow](https://www.paynow.co.zw/) payment gateway. 
 ## Scala
 
+[trevorsibanda/fauna-tool](https://github.com/trevorsibanda/fauna-tool) fauna-tool is a Scala based program nitially built to only reverse engineer the wire protocol to an easier to read language specific FQL syntax, it also allows monitoring of faunadb log files with the ability to apply filters for narrower searches.
+
 ## GoLang
 
 ## ReactJS
