@@ -14,7 +14,9 @@ I've listed a few projects to showcase below, if this section is empty, you're e
 
 ## Haskell
 
-[trevorsibanda/paynow-zw](https://github.com/trevorsibanda/paynow-zw) Haskell SDK for [Paynow](https://www.paynow.co.zw/) payment gateway. 
+[trevorsibanda/paynow-zw](https://github.com/trevorsibanda/paynow-zw) Hackage package, [Paynow](https://www.paynow.co.zw/) payment gateway haskell library. 
+
+[trevorsibanda/hs-scraper](https://github.com/trevorsibanda/hs-scraper) Relatively simple concurrent real estate web scraper using scalpel, stm, postgres-simple, http-conduit-downloader, unliftio. 
 ## Scala
 
 [trevorsibanda/fauna-tool](https://github.com/trevorsibanda/fauna-tool) fauna-tool is a Scala based program nitially built to only reverse engineer the wire protocol to an easier to read language specific FQL syntax, it also allows monitoring of faunadb log files with the ability to apply filters for narrower searches.
