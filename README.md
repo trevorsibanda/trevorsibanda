@@ -23,6 +23,8 @@ I've listed a few projects to showcase below, if this section is empty, you're e
 
 ## GoLang
 
+[trevorsibanda/myhustlezw](https://github.com/trevorsibanda/myhustlezw) MyHustle is an BuyMeACoffee/Patreon inspired platform which gives fans a way to offer support to their favorite content creators and entrepreneurs. Creators can run campaigns, public or exclusive for their fans. Built using golang, gin, mongodb, redis, rabbitmq, mailgun, twilio, aws s3, pusher, react, 
+
 ## ReactJS
 
 [trevorsibanda/tryfaunadb](https://github.com/trevorsibanda/tryfaunadb) TryFaunaDB is an online code editor built on Apache OpenWhisk to use Go/Python/NodeJS to interact with a live FaunaDB database. Deploys to Netlify. See [trevorsibanda/whiskey](https://github.com/trevorsibanda/whiskey) for docker images used. 
